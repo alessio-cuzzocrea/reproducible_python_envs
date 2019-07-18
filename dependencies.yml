@@ -1,0 +1,8 @@
+name: doit-dep
+channels:
+  - defaults
+dependencies:
+  - python=3.7.3
+  - pandas=0.24.2
+ 
+prefix: /home/alessio/.pyenv/versions/miniconda3-latest/envs/doit-dep
